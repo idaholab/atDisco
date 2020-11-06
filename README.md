@@ -1,5 +1,5 @@
 <h2> <img src="/img/disco.png"
-  width="128"
+  width="256"
   style="float:left;">
    Annotated and Translated Disassembled Code (@DisCo)
 
