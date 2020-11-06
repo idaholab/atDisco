@@ -1,7 +1,6 @@
-<h2> <img src="/img/disco.png"
-  width="256"
-  style="float:left;">
-   Annotated and Translated Disassembled Code (@DisCo)
+<p>
+  <img style="float: center;" height="300" src="/img/disco2.png">
+<p/>
 
 #### @DisCo is a graph based datastore designed to organize firmware and software analysis data across builds, packages and systems, providing a highly scalable platform enabling automated binary software analysis tasks including corpora construction and storage for machine learning.
 
