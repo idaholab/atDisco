@@ -1,5 +1,5 @@
 <p>
-  <img style="float: center;" height="300" src="/img/disco2.png">
+  <img style="float: center;" height="300" src="/img/disco.png">
 <p/>
 
 #### @DisCo is a graph based datastore designed to organize firmware and software analysis data across builds, packages and systems, providing a highly scalable platform enabling automated binary software analysis tasks including corpora construction and storage for machine learning.
