@@ -15,3 +15,7 @@ The [**20-501-34_R3_Disco_Innovation_Sheet.pdf**](20-501-34_R3_Disco_Innovation_
 @DisCo was developed at Idaho National Laboratory for the DOE-CESER-CEDS funded Firmware Indicator Translation (FIT) project. The FIT project seeks to provide scalable tools for novel and efficient binary analysis. FIT currently uses @DisCo with advanced machine learning techniques to minimize reverse engineering efforts.
 
 The @DisCo application is also being utilized by other DOE projects, Geo Threat Observables (GTO), Grid Modernization Laboratory Consortium (GMLC), Firmware Command and Control, and Deep Learning Malware.
+
+@DisCo was presented at BSides Idaho (https://www.bsidesidaho.org/) on October 23, 2020. A video recording of the presentation is found below.
+
+[![atDisCo Video](/img/bsides.png)](https://www.youtube.com/watch?v=ac3m1NuYd88)
